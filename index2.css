@@ -1,0 +1,26 @@
+h1{
+    border: 50px dotted green;
+    color: red;
+padding: 20px;
+}
+div{
+    background-color: tomato;
+
+}
+ul{
+    display: flex;
+   list-style-type: none;
+    
+}
+div a:link{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+li{
+    padding: 20px;
+}
+p{
+    color: blue;
+    text-align: center;
+}

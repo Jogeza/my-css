@@ -1,0 +1,17 @@
+.upperdiv{
+    border-width: 5px;
+    text-align: left;
+padding: 3px 3px 3px;
+box-shadow: 20px 20px 20px white;
+}
+
+.submain{
+display:flex;
+text-align: left;
+}
+
+.innersub{
+    height: 50%;
+    width: 50%;
+}
+

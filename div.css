@@ -1,0 +1,14 @@
+.innerdiv{
+    text-align: center;
+box-shadow: 10px 10px 10px gray; 
+    padding: 5px 5px 6px;
+
+}
+
+.maindiv{
+    display:flex;
+    color: burlywood;
+}
+p{
+    background: blueviolet;
+}

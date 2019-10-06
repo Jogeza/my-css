@@ -1,0 +1,49 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.heading1{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.head2{
+    padding: 40px 10px 60px 50px;
+}
+.heading2{
+    background-color: black;
+    color: white;
+    text-align: right;
+
+}
+.paragraph1
+{
+    color: blue;
+}
+.headborder{
+    border: 5px blue solid;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+li{
+    border: 5px red solid;
+ width: 200px;
+ margin-right: 12px;
+    border-radius: 12px;
+}
+ul a{
+    display:  block;
+}
+ul a:hover{
+    background-color:black;
+}
+
+
+
